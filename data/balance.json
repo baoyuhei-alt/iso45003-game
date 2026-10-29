@@ -1,0 +1,72 @@
+{
+  "_reviewStatus": "draft",
+  "maxMood": 5,
+  "startingMood": 5,
+  "handLimit": 7,
+  "drawByEmployees": [
+    2,
+    3,
+    4
+  ],
+  "playsByEmployees": [
+    3,
+    4,
+    6
+  ],
+  "matchDrawChance": 0.35,
+  "totalRounds": 4,
+  "resignationLimit": 3,
+  "longTermDuration": 3,
+  "hazardPointCap": 2,
+  "idleSeconds": 0,
+  "retentionRatings": [
+    {
+      "retainedEmployees": 3,
+      "stars": 3,
+      "slogan": "全員留任,大家都留下來了!",
+      "_reviewStatus": "draft"
+    },
+    {
+      "retainedEmployees": 2,
+      "stars": 2,
+      "slogan": "留下兩位夥伴,還有進步空間。",
+      "_reviewStatus": "draft"
+    },
+    {
+      "retainedEmployees": 1,
+      "stars": 1,
+      "slogan": "留下一位夥伴,下次試試先傾聽。",
+      "_reviewStatus": "draft"
+    }
+  ],
+  "rounds": [
+    {
+      "from": 1,
+      "to": 1,
+      "employeeCount": 1,
+      "pressureMin": 2,
+      "pressureMax": 2
+    },
+    {
+      "from": 2,
+      "to": 2,
+      "employeeCount": 2,
+      "pressureMin": 3,
+      "pressureMax": 3
+    },
+    {
+      "from": 3,
+      "to": 3,
+      "employeeCount": 3,
+      "pressureMin": 3,
+      "pressureMax": 3
+    },
+    {
+      "from": 4,
+      "to": 4,
+      "employeeCount": 3,
+      "pressureMin": 2,
+      "pressureMax": 2
+    }
+  ]
+}

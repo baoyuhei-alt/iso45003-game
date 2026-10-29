@@ -1,0 +1,62 @@
+[
+  {
+    "id": "hope",
+    "name": "小望",
+    "trait": "newcomer",
+    "traitName": "新進員工",
+    "traitEffect": "工作設計類風險較容易出現 2 點",
+    "traitDescription": "剛到職,對工作量、角色與組織變動較敏感。",
+    "sensitiveCategories": ["workDesign"],
+    "color": "#9DC9BA",
+    "asset": "mascot-hope",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "peace",
+    "name": "小和",
+    "trait": "introvert",
+    "traitName": "較少主動表達",
+    "traitEffect": "壓力隱藏,傾聽後永久公開(維持現有機制)",
+    "traitDescription": "不太主動說出困擾,需要有人主動關心。",
+    "hidePressuresUntilListened": true,
+    "color": "#79B5D4",
+    "asset": "mascot-peace",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "care",
+    "name": "小心",
+    "trait": "remote",
+    "traitName": "遠端員工",
+    "traitEffect": "社會因素類風險較容易出現 2 點",
+    "traitDescription": "在遠端工作,對支持與聯繫較敏感。",
+    "sensitiveCategories": ["social"],
+    "color": "#D76A89",
+    "asset": "mascot-care",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "nature",
+    "name": "小森",
+    "trait": "shiftWorker",
+    "traitName": "輪班員工",
+    "traitEffect": "工時不固定、工作與生活失衡較容易出現 2 點",
+    "traitDescription": "班表常變動,時間與休息容易被打亂。",
+    "sensitiveHazardIds": ["schedule", "workLifeBalance"],
+    "color": "#8DAA49",
+    "asset": "mascot-nature",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "energy",
+    "name": "小閃",
+    "trait": "onsiteWorker",
+    "traitName": "現場員工",
+    "traitEffect": "工作環境類風險較容易出現 2 點",
+    "traitDescription": "在現場工作,對設備與環境較敏感。",
+    "sensitiveCategories": ["environment"],
+    "color": "#F0B42A",
+    "asset": "mascot-energy",
+    "_reviewStatus": "draft"
+  }
+]

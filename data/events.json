@@ -1,0 +1,30 @@
+[
+  {
+    "id": "rushOrder",
+    "name": "急單進來",
+    "description": "客戶臨時追加訂單,{員工}的工作量增加了。",
+    "hazardId": "workload",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "orgChange",
+    "name": "組織調整公告",
+    "description": "公司公布組織調整,{員工}對接下來的安排感到不確定。",
+    "hazardId": "organizationalChange",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "renovation",
+    "name": "辦公室整修",
+    "description": "辦公室開始整修,{員工}的工作環境變得吵雜。",
+    "hazardId": "noiseTemperature",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "afterHours",
+    "name": "下班後訊息",
+    "description": "專案趕進度,{員工}下班後仍持續收到訊息。",
+    "hazardId": "workLifeBalance",
+    "_reviewStatus": "draft"
+  }
+]

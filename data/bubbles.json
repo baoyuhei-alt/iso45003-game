@@ -1,0 +1,135 @@
+{
+  "_reviewStatus": "draft",
+  "hazards": [
+    {
+      "hazardId": "workload",
+      "initial": "案子一直進來,我做不完⋯⋯",
+      "lowMood": "再這樣下去,我真的撐不住了。",
+      "resolved": "工作重新分配後,輕鬆多了。",
+      "_reviewStatus": "draft",
+      "hint": "事情真的太多了，能不能幫我把任務分給其他人，或減少一些工作？"
+    },
+    {
+      "hazardId": "roleClarity",
+      "initial": "這件事到底是誰負責?",
+      "lowMood": "每次都不確定該做什麼,好困擾。",
+      "resolved": "現在知道各自負責什麼了,清楚多了。",
+      "_reviewStatus": "draft",
+      "hint": "我想知道每件事由誰負責，自己的責任是什麼。"
+    },
+    {
+      "hazardId": "schedule",
+      "initial": "班表又改了,我沒辦法安排生活。",
+      "lowMood": "時間一直被打亂,我很難休息。",
+      "resolved": "班表能提早知道,終於能安排了。",
+      "_reviewStatus": "draft",
+      "hint": "如果班表能提早確定、保留彈性，我就能好好安排生活了。"
+    },
+    {
+      "hazardId": "support",
+      "initial": "遇到困難,不知道可以找誰。",
+      "lowMood": "事情卡住了,身邊沒有人可以討論。",
+      "resolved": "知道有人可以談,安心多了。",
+      "_reviewStatus": "draft",
+      "hint": "我最需要的是遇到困難時，知道有哪個人可以找、可以討論。"
+    },
+    {
+      "hazardId": "respect",
+      "initial": "開會時總是被打斷。",
+      "lowMood": "我越來越不想在會議上發言了。",
+      "resolved": "現在大家都會好好聽彼此說話。",
+      "_reviewStatus": "draft",
+      "hint": "我希望大家能練習尊重彼此，好好聽完對方的話。"
+    },
+    {
+      "hazardId": "isolation",
+      "initial": "好幾天都沒跟同事說話了。",
+      "lowMood": "我覺得和團隊越來越遠了。",
+      "resolved": "有固定交流,感覺又連上線了。",
+      "_reviewStatus": "draft",
+      "hint": "我想和同事多一點交流，不只是自己一個人工作。"
+    },
+    {
+      "hazardId": "equipment",
+      "initial": "電腦又當機,工作都卡住。",
+      "lowMood": "工具一直出問題,進度都被拖住了。",
+      "resolved": "換了新設備,順暢多了。",
+      "_reviewStatus": "draft",
+      "hint": "是工具一直故障讓工作卡住，我需要能正常使用的設備。"
+    },
+    {
+      "hazardId": "noiseTemperature",
+      "initial": "太吵了,沒辦法專心。",
+      "lowMood": "環境讓我越來越難集中精神。",
+      "resolved": "環境舒服多了,專心多了。",
+      "_reviewStatus": "draft",
+      "hint": "如果能改善這裡的噪音和溫度，我會更容易專心。"
+    },
+    {
+      "hazardId": "organizationalChange",
+      "initial": "公司又在調整了,我不知道接下來會怎樣。",
+      "lowMood": "一直在變,我不知道該相信什麼。",
+      "resolved": "知道變動的原因和時程,心裡踏實了。",
+      "_reviewStatus": "draft",
+      "hint": "我想提早知道變動的原因和時程，也想有機會提問。"
+    },
+    {
+      "hazardId": "workLifeBalance",
+      "initial": "下班後訊息一直來,我很難真正休息。",
+      "lowMood": "工作和生活的界線越來越模糊了。",
+      "resolved": "有了休息時間,終於能好好恢復。",
+      "_reviewStatus": "draft",
+      "hint": "我需要真正休息的時間，下班後也希望能先放下工作。"
+    }
+  ],
+  "employees": [
+    {
+      "employeeId": "hope",
+      "hazardId": "workload",
+      "text": "我剛來,不知道該先做哪一件⋯⋯",
+      "_reviewStatus": "draft"
+    },
+    {
+      "employeeId": "hope",
+      "hazardId": "roleClarity",
+      "text": "我剛來,不太清楚誰負責什麼。",
+      "_reviewStatus": "draft"
+    },
+    {
+      "employeeId": "care",
+      "hazardId": "support",
+      "text": "訊息發出去,一直沒有人回。",
+      "_reviewStatus": "draft"
+    },
+    {
+      "employeeId": "care",
+      "hazardId": "isolation",
+      "text": "除了視訊會議,很少有人找我。",
+      "_reviewStatus": "draft"
+    },
+    {
+      "employeeId": "nature",
+      "hazardId": "schedule",
+      "text": "這週班表又變了,下班就只想休息。",
+      "_reviewStatus": "draft"
+    },
+    {
+      "employeeId": "nature",
+      "hazardId": "workLifeBalance",
+      "text": "輪完班想休息,訊息又進來了。",
+      "_reviewStatus": "draft"
+    },
+    {
+      "employeeId": "energy",
+      "hazardId": "equipment",
+      "text": "機器又出狀況,現場都停下來了。",
+      "_reviewStatus": "draft"
+    },
+    {
+      "employeeId": "energy",
+      "hazardId": "noiseTemperature",
+      "text": "現場太吵,我聽不清楚指示。",
+      "_reviewStatus": "draft"
+    }
+  ]
+}

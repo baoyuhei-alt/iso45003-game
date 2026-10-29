@@ -1,0 +1,75 @@
+[
+  {
+    "id": "workload",
+    "category": "workDesign",
+    "name": "工作量過載",
+    "icon": "▤",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "roleClarity",
+    "category": "workDesign",
+    "name": "角色不清",
+    "icon": "◇",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "schedule",
+    "category": "workDesign",
+    "name": "工時不固定",
+    "icon": "◷",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "organizationalChange",
+    "category": "workDesign",
+    "name": "組織變動",
+    "icon": "↻",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "support",
+    "category": "social",
+    "name": "缺乏支持",
+    "icon": "♧",
+    "fixHint": "建立支持管道:指定窗口與定期一對一,讓員工知道可以找誰。",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "respect",
+    "category": "social",
+    "name": "人際衝突與缺乏尊重",
+    "icon": "⚡",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "isolation",
+    "category": "social",
+    "name": "孤立",
+    "icon": "○",
+    "fixHint": "安排團隊交流:固定的團隊交流,讓每個人都能參與。",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "workLifeBalance",
+    "category": "social",
+    "name": "工作與生活失衡",
+    "icon": "◐",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "equipment",
+    "category": "environment",
+    "name": "設備不足",
+    "icon": "▣",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "noiseTemperature",
+    "category": "environment",
+    "name": "噪音或溫度不適",
+    "icon": "≋",
+    "fixHint": "改善噪音與空調:降低噪音、調整空調與座位動線。",
+    "_reviewStatus": "draft"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "adjustWorkload",
+    "kind": "action",
+    "name": "調整工作量",
+    "hazardId": "workload",
+    "longTerm": false,
+    "count": 2,
+    "description": "重新分配任務與資源",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "clarifyRoles",
+    "kind": "action",
+    "name": "釐清職責",
+    "hazardId": "roleClarity",
+    "longTerm": true,
+    "count": 2,
+    "description": "建立清楚的角色與責任",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "flexibleSchedule",
+    "kind": "action",
+    "name": "彈性排班",
+    "hazardId": "schedule",
+    "longTerm": true,
+    "count": 2,
+    "description": "讓工時更可預期",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "explainChange",
+    "kind": "action",
+    "name": "說明變動與時程",
+    "hazardId": "organizationalChange",
+    "longTerm": true,
+    "count": 2,
+    "description": "說明變動與時程",
+    "fixHint": "說明變動:提早說明原因與時程,並讓員工有機會提問。",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "communication",
+    "kind": "action",
+    "name": "建立支持管道",
+    "hazardId": "support",
+    "longTerm": true,
+    "count": 2,
+    "description": "指定窗口與定期一對一,讓員工知道可以找誰",
+    "fixHint": "建立支持管道:指定窗口與定期一對一,讓員工知道可以找誰。",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "respectTraining",
+    "kind": "action",
+    "name": "教育訓練",
+    "hazardId": "respect",
+    "longTerm": false,
+    "count": 2,
+    "description": "練習尊重的互動方式",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "remoteConnection",
+    "kind": "action",
+    "name": "安排團隊交流",
+    "hazardId": "isolation",
+    "longTerm": false,
+    "count": 2,
+    "description": "固定的團隊交流,讓每個人都能參與",
+    "fixHint": "安排團隊交流:固定的團隊交流,讓每個人都能參與。",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "compensatoryLeave",
+    "kind": "action",
+    "name": "安排補休",
+    "hazardId": "workLifeBalance",
+    "longTerm": false,
+    "count": 2,
+    "description": "安排補休",
+    "fixHint": "安排補休:讓員工有時間恢復,並約定下班後的聯絡原則。",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "equipmentUpgrade",
+    "kind": "action",
+    "name": "設備改善",
+    "hazardId": "equipment",
+    "longTerm": true,
+    "count": 2,
+    "description": "修復或補足工作設備",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "environmentAdjust",
+    "kind": "action",
+    "name": "改善噪音與空調",
+    "hazardId": "noiseTemperature",
+    "longTerm": false,
+    "count": 2,
+    "description": "降低噪音、調整空調與座位動線",
+    "fixHint": "改善噪音與空調:降低噪音、調整空調與座位動線。",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "counseling",
+    "kind": "counseling",
+    "name": "整合輔導",
+    "longTerm": false,
+    "count": 2,
+    "description": "心情 +3，但不處理風險來源",
+    "_reviewStatus": "draft"
+  },
+  {
+    "id": "consultant",
+    "kind": "consultant",
+    "name": "諮詢顧問",
+    "longTerm": false,
+    "count": 0,
+    "description": "抽 2 張牌",
+    "_reviewStatus": "draft"
+  }
+]
